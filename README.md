@@ -77,8 +77,12 @@ Hasil dari kedua pendekatan tersebut kemudian dibandingkan untuk melihat perbeda
 
 ## Hasil dan Pembahasan
 ### Analisis Deskriptif
-Laki laki	9
-perempuan	8
+| Jenis Kelamin | Frekuensi | Persentase |
+|---|---|---|
+| Laki-laki | 8 | 26.7% |
+| Perempuan | 22 | 73.3% |
+| Total | 30 | 100% |
+
 	
 	
 
