@@ -1,5 +1,5 @@
-## Analisis Tingkat Kepuasan Pengguna Layanan Keuangan Digital (E-Wallet dan Mobile Banking) dalam Mendukung Kebutuhan Sehari-hari Mahasiswa FMIPA Universitas Mataram
-# Latar Belakang
+# Analisis Tingkat Kepuasan Pengguna Layanan Keuangan Digital (E-Wallet dan Mobile Banking) dalam Mendukung Kebutuhan Sehari-hari Mahasiswa FMIPA Universitas Mataram
+## Latar Belakang
 Perkembangan teknologi digital telah membawa perubahan besar dalam sistem transaksi keuangan melalui hadirnya layanan seperti E-Wallet dan Mobile Banking. Layanan ini memberikan kemudahan dalam melakukan transaksi secara cepat, praktis, dan efisien sehingga penggunaannya terus meningkat di berbagai kalangan masyarakat, terutama mahasiswa yang cenderung adaptif terhadap perkembangan teknologi. Kemudahan akses melalui smartphone menjadikan layanan keuangan digital semakin diminati dalam aktivitas sehari-hari.
 
 Mahasiswa memanfaatkan layanan keuangan digital untuk berbagai kebutuhan, seperti pembayaran makanan, transportasi, pembelian pulsa dan paket data, pembayaran tagihan, hingga transaksi akademik. Selain praktis, layanan E-Wallet dan Mobile Banking juga menawarkan berbagai fitur pendukung seperti kemudahan top up saldo, integrasi dengan berbagai layanan, serta proses transaksi yang cepat. Hal tersebut membuat layanan keuangan digital menjadi alternatif utama dibandingkan penggunaan uang tunai.
@@ -8,12 +8,12 @@ Di lingkungan FMIPA Universitas Mataram, penggunaan layanan keuangan digital jug
 
 Penelitian ini bertujuan untuk mengetahui tingkat kepuasan mahasiswa FMIPA Universitas Mataram terhadap penggunaan layanan keuangan digital, khususnya E-Wallet dan Mobile Banking. Selain itu, penelitian ini juga memberikan gambaran mengenai peran layanan tersebut dalam mendukung kebutuhan harian mahasiswa. Data diperoleh melalui survei daring dengan teknik non probability sampling dengan metode purposive sampling, sehingga hasil penelitian diharapkan mampu memberikan informasi deskriptif terkait perilaku serta tingkat kepuasan pengguna layanan keuangan digital di lingkungan mahasiswa FMIPA Universitas Mataram.
 
-# Tujuan
+## Tujuan
 1)	Mengetahui tingkat kepuasan mahasiswa FMIPA Universitas Mataram terhadap penggunaan layanan keuangan digital. 
 2)	Mengetahui peran E-Wallet dan Mobile Banking dalam mendukung kebutuhan sehari-hari mahasiswa. 
 3)	Menganalisis hasil survei online menggunakan metode non-probability sampling.
 
-# Metode
+## Metode
 3.1	Jenis Penelitian
 
 Penelitian ini merupakan penelitian kuantitatif dengan pendekatan survei. Data yang digunakan berupa data numerik yang diperoleh melalui penyebaran kuesioner kepada responden, dengan tujuan untuk menggambarkan tingkat kepuasan pengguna layanan keuangan digital berdasarkan data yang diperoleh.
@@ -73,7 +73,14 @@ Selanjutnya, dilakukan perbandingan hasil estimasi menggunakan dua pendekatan, y
 
 Hasil dari kedua pendekatan tersebut kemudian dibandingkan untuk melihat perbedaan tingkat kepuasan yang dihasilkan dari masing-masing metode.
 
-# Tahap Analisis Data
+## Tahap Analisis Data
+
+## Hasil dan Pembahasan
+### Analisis Deskriptif
+Laki laki	9
+perempuan	8
+	
+	
 
 
 
