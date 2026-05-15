@@ -74,6 +74,71 @@ Selanjutnya, dilakukan perbandingan hasil estimasi menggunakan dua pendekatan, y
 Hasil dari kedua pendekatan tersebut kemudian dibandingkan untuk melihat perbedaan tingkat kepuasan yang dihasilkan dari masing-masing metode.
 
 ## Tahap Analisis Data
+1. Naive Estimation
+P1=29/30=0.967
+
+P2=28/30=0.933
+
+P3=13/30=0.433
+
+P4=18/30=0.6
+
+P5=29/30=0.967
+
+P6=28/30=0.933
+
+P7=25/30=0.833
+
+P8=27/30=0.9
+
+P9=27/30=0.9
+
+P10=27/30=0.9
+
+Rata-rata=0.967+0.933+0.433+0.6+0.967+0.933+0.833+0.9+0.9+0.9/10=8.366≈83.4%
+
+3. Weighted Estimation
+Psampel=30/8=0.267
+
+Psampel=30/22=0.733
+
+Asumsi populasi: 50% = 0.05
+
+wlaki-laki=0.50/0.267=1.87
+
+Wperempuan=0.50/0.733=0.68
+
+Jumlah jawaban positif
+
+(skala 4 dan 5)
+
+laki-laki = 70
+
+perempuan = 181
+
+Laki-laki
+70×1.87=130.9
+
+Perempuan
+181×0.68=123.08
+
+Total:
+130.9+123.08=253.98
+
+Total seluruh jawaban berbobot
+
+Laki-laki
+80×1.87=149.6
+
+Perempuan
+220×0.68=149.6
+
+Total:
+149.6+149.6=299.2
+
+Pw=299.2/253.98
+	
+Pw=0.849≈84.9%
 
 ## Hasil dan Pembahasan
 ### Analisis Deskriptif
@@ -83,8 +148,25 @@ Hasil dari kedua pendekatan tersebut kemudian dibandingkan untuk melihat perbeda
 | Perempuan | 22 | 73.3% |
 | Total | 30 | 100% |
 
+Berdasarkan hasil survei dengan jumlah responden sebanyak 30 orang, dieproleh hasil bahwa 8 responden laki-laki (26,7%) dan 22 responden perempuan (73,3%). Data tersebut menunjukkan bahwa responden dalam penelitian ini didominasi oleh perempuan.
 	
-	
+### Grafik Distribusi Responden
+Visualisasi data dilakukan menggunakan bar chart untuk memperlihatkan distribusi responden berdasarkan jenis kelamin. Grafik dapat dilihat di lampiran Grafik Distribusi Responden. Adapun gambar grafik menunjukkan bahwa jumlah responden perempuan lebih mendominasi dibandingkan responden laki-laki.
 
+### Naive Estimation
+Naive estimation digunakan untuk memperoleh estimasi awal tingkat kepuasan mahasiswa berdasarkan data responden secara langsung tanpa memberikan pembobotan pada data. Berdasarkan hasil analisis manual dengan rumus P=jumlah setuju/total responden, diperoleh hasil sebesar 83.7%. Hasil ini menunjukkan bahwa sebesar 83.7% mahasiswa merasa puas terhadap layanan keuangan digital. Namun, hasil tersebut masih memiliki kemungkinan bias karena distribusi responden dalam sampel belum sepenuhnya mencerminkan kondisi populasi sebenarnya.
 
+### Weighting Sederhana
+Weighting sederhana digunakan untuk menyesuaikan distribusi sampel agar lebih mendekati distribusi populasi yang sebenarnya.Berdasarkan hasil analisis manual dengan rumus wi=proporsi populasi/proporsi sampel, diperoleh hasil sebesar 84.9%. Hasil tersebut menunjukkan bahwa setelah dilakukan pembobotan berdasarkan jenis kelamin, tingkat kepuasan mahasiswa terhadap layanan keuangan digital tetap berada pada kategori tinggi.
 
+### Perbandingan Estimasi
+Perbandingan hasil estimasi dilakukan untuk mengetahui perbedaan nilai antara naive estimation dan weighted estimation.
+| Metode Estimasi | Hasil |  
+|---|---|
+| Naive Estimation | 83.7% | 
+| Weighted Estimation | 84.9% | 
+
+Berdasarkan hasil perhitungan, nilai tingkat kepuasan yang diperoleh melalui naive estimation adalah sebesar 83.7%, sementara weighted estimation menghasilkan nilai sebesar 84.9%. Perbedaan yang tidak signifikan antara kedua estimasi tersebut mengindikasikan bahwa karakteristik responden dalam sampel penelitian relatif telah menggambarkan keadaan populasi secara cukup baik.
+
+## Kesimpulan
+Berdasarkan hasil analisis non-probability sampling pada survei online terkait tingkat kepuasan mahasiswa FMIPA terhadap layanan keuangan digital, diketahui bahwa sebagian besar responden memberikan penilaian positif terhadap pelayanan yang diterima. Hasil distribusi responden memperlihatkan bahwa jumlah responden perempuan lebih banyak dibandingkan laki-laki. Perhitungan naive estimation menghasilkan tingkat kepuasan sebesar 83.7%, sedangkan hasil weighted estimation berdasarkan jenis kelamin menunjukkan nilai sebesar 84.9%. Selisih hasil yang tidak terlalu besar menandakan bahwa sampel penelitian telah cukup menggambarkan kondisi populasi.
